@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/queue-7204c16e44715cd30f78443fb99e0f58@sha256:2e26a33aaf0e21db816fb75ea295a323e8deac0a159e8cf8cffbefc5415f78f1
